@@ -1,16 +1,15 @@
 PT VERSION:
 - 👋 Olá, me chamo Fabricio, sou estudante de Análise e Desenvolvimento de Sistemas.
-- 👀 Estou a procura de conseguir uma oportunidade para me aprofundar nos conhecimentos de programação.
+- 👀 Atualmente estou na minha primeira oportunidade, sendo estagiario.
 - 🌱 Ainda aprendendo.
 
 
 EN VERSION:
 - 👋 Hi, I’m Fabricio, a brazilian student of Analysis and Development of Systems.
-- 👀 I’m interested in getting an opportunity to start learn deep coding.
+- 👀 At the moment i'm at my first opportunity as a intern.
 - 🌱 Still learning.
 
-
-I can speak both languages, brazilian portuguese (born and raised), and english (needs improvment).
+I have knowledges in Java, COBOL, COBOL DB2, Mainframe, PHP, Python, SQL.
 
 - 📫 Linkedin: https://www.linkedin.com/in/fabriciomoreirapedroso/
 
