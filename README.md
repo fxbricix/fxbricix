@@ -1,15 +1,5 @@
-PT VERSION:
-- 👋 Olá, me chamo Fabricio, sou estudante de Análise e Desenvolvimento de Sistemas.
-- 👀 Atualmente estou na minha primeira oportunidade, sendo estagiario.
-- 🌱 Ainda aprendendo.
+Software Engineer Junior at Bradesco 
 
+Antifraud-focused backend developer with solid experience designing and implementing high-availability and regulatory-compliant systems, especially in the financial and banking sector. Strong background in Java 21 and Spring Boot 3.5, building reactive microservices using Project Reactor (Flux/Mono). Proficient in Apache Kafka (Confluent) for asynchronous messaging and event-driven processing, with custom implementations for correlation ID tracking and timeout handling to ensure resiliency and observability.
 
-EN VERSION:
-- 👋 Hi, I’m Fabricio, a brazilian student of Analysis and Development of Systems.
-- 👀 At the moment i'm at my first opportunity as a intern.
-- 🌱 Still learning.
-
-I have knowledges in Java, COBOL, COBOL DB2, Mainframe, PHP, Python, SQL.
-
-- 📫 Linkedin: https://www.linkedin.com/in/fabriciomoreirapedroso/
-
+Experienced with MongoDB for flexible document-based storage, and SQL/T-SQL for complex relational queries and reporting. Adept at meeting high-throughput and low-latency requirements, with systems tailored for real-time fraud detection, monitoring, and compliance reporting (e.g., to BACEN standards). Also involved in system specification, requirements analysis, and architectural planning for scalable platforms with 24/7 availability across web and mobile.
