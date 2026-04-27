@@ -1,1 +1,1 @@
-Software Engineer Junior at Bradesco 
+Software Engineer
